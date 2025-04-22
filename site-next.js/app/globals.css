@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #130d38;
+  color: #ffdfb5;
+}
+
+header {
+  background-color: #1e1a4d;
+  padding: 20px 50px;
+  text-align: center;
+  justify-content: space-around;
+  display: flex;
+  border-bottom: 2px solid #ffdfb5;
+}
+
+header a {
+  margin-left: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #4c8859;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.post {
+  width: 500px;
+  margin-top: 50px;
+  padding: 20px;
+  border-radius: 5px;
+  background: #598191;
+  color: #000;
+}
+
+.post h2 {
+  margin-bottom: 10px;
+}
+
+.post p {
+  margin-bottom: 20px;
+}

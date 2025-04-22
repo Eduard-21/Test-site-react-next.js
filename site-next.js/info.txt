@@ -1,0 +1,10 @@
+out - in el se pastreza situl nostru creat fara a fii nevoie de un server
+rout - prin el facem legatura intre server si situl nostru
+page.js -  nu este decat o pagina principala pentur fiecare utilizator fie 
+client, admin, sau vanzator.
+metadata - sunt datele prin care noi schimbam denumirea pagini cum era in HTML la tag-ul title
+global.css - nu este decat un css simplu incare inscrii ca intrun css normal atat ca el este la nivel
+glolbal daca tu la o pagina nu vei adauga background sau color ele se vor lua default din global.css
+layout - este pagina principala in care se modifica elementul de children, practic asa functioneaza react, next.js
+!!! De retinut cu cat mai multe elemente ai de modificat pe un site cu atat mai multe componente trebuie sa 
+creezi, pentru ca pe react si next.js asa se lucreaza un bloc se fragmenteaza in sub diviziuni pana nu ramane esential.
